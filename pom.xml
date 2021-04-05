@@ -19,19 +19,7 @@
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
-	<distributionManagement>
-		<repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.245.57:8081/repository/maven-releases/</url>
-	    </repository>
 	
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.245.57:8081/repository/wallmart-snapshot/</url>
-	    </snapshotRepository>
 	    
-	</distributionManagement>
-  
+	
 </project>
